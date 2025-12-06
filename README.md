@@ -1,6 +1,6 @@
 # 🎯 AI-Powered Task Manager with Voice Input
 
-> A full-stack task management application featuring voice-to-task conversion, email integration, and AI-powered natural language processing.
+> A full-stack task management application featuring voice-to-task conversion, and AI-powered natural language processing.
 
 [![Node.js](https://img.shields.io/badge/Node.js-20+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
@@ -400,9 +400,6 @@ This project uses OpenAI's GPT-4o-mini model for natural language processing.
    - Automatically detects priority from context
    - Keywords: "urgent", "important", "high priority"
 
-4. **Email to Task Conversion**
-   - Parses email content and subject
-   - Creates structured tasks from email forwards
 
 #### Example AI Prompt:
 
